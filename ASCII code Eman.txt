@@ -1,0 +1,59 @@
+   
+
+                                                                                 ASCII Code  
+
+
+    For a computer to understand and process text, it must first convert the text into a digital format, a process known as digitization. This is achieved by turning each character into a number that the computer can process, One common system for achieving this is the ASCII Code (American Standard Code for Information Interchange), ASCII assigns a unique number to each character or symbol, allowing computers to understand and process text data effectively.
+
+    The ASCII code includes 128 basic characters, which are stored using 7 bits. These characters encompass:
+	•  Uppercase letters (A-Z)
+	•  Lowercase letters (a-z)
+	•  Numbers (0-9)
+	•  Special characters (e.g., !, @, #, &, etc.)   
+        •  The space character .
+
+    The following link displays the ASCII table: https://drive.google.com/file/d/1agDxrT1m--qo--ZdzTxbSygCtSb8xrei/view?usp=drivesdk
+
+
+      To write “Eman” using binary codes (Binary) for each character in ASCII, here is the binary representation for each letter:
+
+	•	E = 01000101
+	•	m = 01101101
+	•	a = 01100001
+	•	n = 01101110
+
+     So, “Eman” in ASCII binary will be: 01000101 01101101 01100001 01101110
+
+
+   As we notice that the difference between upper and lower character in ASCII is 32 in dicimal.
+
+      for example:
+
+	•	The uppercase letter A has a decimal value of 65.
+	•	The lowercase letter a has a decimal value of 97.
+
+      So, the difference between A and a is 32.
+
+
+   
+      
+    In the ASCII table, the decimal values of the digits from 0 to 9 increase by 1 for each subsequent number. For example:
+	•	0 = 48
+	•	1 = 49
+	•	2 = 50
+	•	3 = 51
+	•	4 = 52
+	•	5 = 53
+	•	6 = 54
+	•	7 = 55
+	•	8 = 56
+	•	9 = 57
+
+       So, the decimal value increases by 1 from the digit 0 to the digit 9.
+
+
+    This is a C++ example code that convert the lower letter to chapital one :https://github.com/emanbzour/Convert-from-lower-to-upper
+
+
+
+Prepared by Eman Ahmad Bzoor
