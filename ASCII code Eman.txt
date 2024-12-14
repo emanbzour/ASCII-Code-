@@ -1,6 +1,6 @@
    
 
-                                                                                 ASCII Code  
+                                                                 ASCII Code  
 
 
     For a computer to understand and process text, it must first convert the text into a digital format, a process known as digitization. This is achieved by turning each character into a number that the computer can process, One common system for achieving this is the ASCII Code (American Standard Code for Information Interchange), ASCII assigns a unique number to each character or symbol, allowing computers to understand and process text data effectively.
